@@ -1,0 +1,251 @@
+Project_ID,Project_Name,Category,Budget_USD,Duration_Months,Expected_ROI_Percent,Risk_Level,Strategic_Alignment,Resource_Availability_Percent,Implementation_Complexity_Score,Stakeholder_Support_Score,Timeline_Feasibility_Score,Dependency_Count,Annual_Benefit_USD,Critical_Path_Days,Team_Availability_Percent,Regulatory_Requirement,Customer_Impact_Score,Competitive_Advantage_Score,Operational_Efficiency_Gain_Percent,Quality_Improvement_Score
+PRJ-0001,Project 1: Infrastructure Transformation,Compliance,4354572,23,51.03,Medium,Medium,94,8,5,4,2,339365,338,31,False,6,2,9.09,5
+PRJ-0002,Project 2: Digital Implementation,Innovation,1357371,27,90.91,Medium,Medium,61,3,7,4,0,283538,514,80,True,5,9,3.25,4
+PRJ-0003,Project 3: Digital Implementation,Technology,2845513,11,9.71,Low,Low,79,7,8,3,0,470337,901,33,False,6,6,27.34,6
+PRJ-0004,Project 4: Product Enhancement,Innovation,2349435,12,268.97,High,Critical,81,8,5,2,4,1407527,951,89,False,9,1,0.78,9
+PRJ-0005,Project 5: Digital Implementation,Compliance,1802126,13,63.66,Medium,Medium,52,5,7,9,3,1343382,230,41,False,1,7,15.55,8
+PRJ-0006,Project 6: Product Optimization,Compliance,2171690,3,117.96,Medium,Critical,24,7,7,9,1,132409,921,80,True,7,1,15.72,4
+PRJ-0007,Project 7: Product Transformation,Product Development,3520495,9,90.48,High,High,61,9,5,6,3,1940267,649,73,False,7,9,15.9,1
+PRJ-0008,Project 8: Digital Modernization,Sustainability,4372252,5,7.05,Medium,Critical,81,5,1,3,1,924091,693,88,False,8,9,20.19,1
+PRJ-0009,Project 9: Process Implementation,Risk Mitigation,466880,19,83.7,Low,High,73,7,5,1,0,1316002,667,31,True,6,7,33.61,8
+PRJ-0010,Project 10: System Modernization,Revenue Growth,2608231,7,191.53,Medium,Medium,35,1,9,6,4,1936914,689,88,False,3,3,40.48,4
+PRJ-0011,Project 11: Infrastructure Modernization,Infrastructure,4721399,20,252.12,Medium,Low,76,9,2,7,1,564594,292,45,False,9,4,26.48,2
+PRJ-0012,Project 12: Digital Implementation,Cost Reduction,167796,34,191.76,Very Low,Critical,38,3,4,8,0,1857191,657,65,False,8,4,29.03,9
+PRJ-0013,Project 13: System Modernization,Technology,2849487,20,148.26,Medium,Low,80,9,4,1,3,1868336,427,50,False,4,8,32.48,7
+PRJ-0014,Project 14: System Modernization,Infrastructure,4351754,24,83.23,Very High,Medium,73,8,2,5,0,1056811,908,93,True,5,3,28.6,1
+PRJ-0015,Project 15: Digital Implementation,Cost Reduction,2977109,26,102.57,Very High,Medium,79,1,4,5,0,128015,352,47,True,6,3,28.5,8
+PRJ-0016,Project 16: Process Enhancement,Innovation,1853649,28,223.53,Very Low,Critical,62,6,7,7,1,245362,847,54,False,7,9,31.39,4
+PRJ-0017,Project 17: Digital Implementation,Process Improvement,498982,17,115.8,Low,Low,82,6,3,9,1,715086,219,51,False,6,1,1.87,6
+PRJ-0018,Project 18: System Implementation,Cost Reduction,3309360,10,232.15,High,Low,24,7,4,6,4,199407,913,76,True,7,8,36.3,2
+PRJ-0019,Project 19: Infrastructure Enhancement,Process Improvement,1185248,21,134.5,Low,Critical,81,7,9,5,0,1911625,663,30,True,2,6,35.73,8
+PRJ-0020,Project 20: Product Transformation,Infrastructure,4651020,7,185.46,Medium,Low,45,3,5,6,0,365612,249,98,True,1,4,8.77,5
+PRJ-0021,Project 21: Infrastructure Modernization,Cost Reduction,338790,12,285.0,High,High,71,3,1,8,4,1599228,545,45,False,7,2,1.33,4
+PRJ-0022,Project 22: Infrastructure Enhancement,Process Improvement,3099851,35,140.18,Medium,Medium,31,3,1,1,1,617274,585,58,True,2,3,30.91,7
+PRJ-0023,Project 23: Digital Enhancement,Compliance,2760108,28,206.08,Low,Medium,26,4,5,2,4,545626,442,65,True,5,9,27.4,5
+PRJ-0024,Project 24: Digital Optimization,Infrastructure,2233151,20,78.75,Very High,Low,74,7,9,3,0,1244717,302,91,False,9,6,14.88,3
+PRJ-0025,Project 25: Digital Implementation,Sustainability,4148502,30,285.27,High,Medium,35,5,5,3,3,230184,977,82,True,9,7,4.56,7
+PRJ-0026,Project 26: Process Transformation,Process Improvement,4282406,31,108.52,Low,Medium,95,9,1,6,4,1764279,199,38,False,2,5,25.67,6
+PRJ-0027,Project 27: System Transformation,Infrastructure,1336643,19,284.44,Very Low,Critical,23,4,6,3,4,258683,211,68,True,3,7,21.72,2
+PRJ-0028,Project 28: Infrastructure Enhancement,Product Development,1504908,3,205.91,High,High,82,1,9,8,0,1948341,146,35,False,5,6,46.23,5
+PRJ-0029,Project 29: Infrastructure Optimization,Process Improvement,2423139,20,54.03,Very Low,High,34,1,5,6,2,1208735,500,86,True,8,6,22.78,5
+PRJ-0030,Project 30: Process Implementation,Product Development,3519401,10,109.24,Low,Low,60,4,6,1,0,1923760,753,58,True,3,6,47.49,5
+PRJ-0031,Project 31: Digital Enhancement,Innovation,4722311,32,260.49,Very High,Critical,52,6,1,2,0,1187354,882,55,True,9,6,41.46,1
+PRJ-0032,Project 32: Product Modernization,Technology,3301298,3,9.03,High,Critical,88,5,6,3,4,820006,594,66,False,3,1,12.05,9
+PRJ-0033,Project 33: Digital Optimization,Product Development,596237,3,203.15,Low,Low,91,7,2,6,2,628362,335,41,True,6,5,4.42,9
+PRJ-0034,Project 34: Digital Transformation,Cost Reduction,3011293,4,242.49,High,High,57,2,2,2,2,790722,476,81,True,6,1,39.18,7
+PRJ-0035,Project 35: Process Optimization,Infrastructure,1346516,31,48.39,Very Low,High,36,4,8,5,1,869909,82,95,True,3,9,23.01,6
+PRJ-0036,Project 36: Infrastructure Implementation,Compliance,1355794,34,144.82,Very High,Low,69,3,3,5,4,1539297,633,71,True,6,5,27.44,5
+PRJ-0037,Project 37: Digital Implementation,Innovation,4296049,16,102.38,Medium,Critical,45,9,9,6,2,1995342,77,90,True,4,1,4.23,3
+PRJ-0038,Project 38: Product Implementation,Compliance,685605,16,187.39,Low,Critical,45,8,3,7,2,814462,948,47,False,6,3,19.86,9
+PRJ-0039,Project 39: Product Implementation,Innovation,3770464,24,101.61,High,Critical,36,4,9,4,1,477010,262,47,True,4,6,29.34,8
+PRJ-0040,Project 40: Digital Implementation,Process Improvement,2510072,8,270.4,Low,Medium,75,6,5,9,0,912580,691,50,False,6,7,24.39,8
+PRJ-0041,Project 41: Digital Optimization,Process Improvement,2903406,26,38.05,Low,Low,94,4,6,6,0,122221,533,80,False,9,2,27.84,8
+PRJ-0042,Project 42: Process Optimization,Cost Reduction,114323,21,63.85,High,Critical,31,1,6,5,2,1615118,897,32,True,6,2,22.71,5
+PRJ-0043,Project 43: Process Implementation,Technology,428892,4,30.92,Very High,Critical,36,9,8,6,2,1021293,124,78,True,2,5,36.54,9
+PRJ-0044,Project 44: Process Implementation,Process Improvement,436594,3,223.63,High,Low,91,9,5,3,4,1598388,34,55,False,4,9,43.86,9
+PRJ-0045,Project 45: Process Optimization,Revenue Growth,3136176,25,134.43,Very Low,Critical,36,1,7,2,4,963959,133,80,True,3,6,46.99,7
+PRJ-0046,Project 46: System Enhancement,Product Development,4587358,31,151.15,Medium,Low,48,6,9,1,4,1909492,440,84,True,4,6,35.7,5
+PRJ-0047,Project 47: System Enhancement,Infrastructure,4107893,15,37.64,High,Critical,71,8,8,5,4,1072958,353,74,False,3,3,28.28,5
+PRJ-0048,Project 48: Infrastructure Optimization,Innovation,3174071,8,123.25,Low,High,31,8,2,9,0,198014,645,89,True,4,4,39.5,5
+PRJ-0049,Project 49: Process Modernization,Innovation,2464472,31,35.75,Very Low,High,30,7,1,5,4,142717,449,83,True,9,1,43.49,7
+PRJ-0050,Project 50: System Transformation,Sustainability,518276,11,65.65,Very Low,Critical,45,9,3,4,0,1027433,104,67,False,7,2,24.04,1
+PRJ-0051,Project 51: System Optimization,Process Improvement,821253,26,175.4,High,High,52,1,6,2,4,168768,996,78,False,6,6,4.27,8
+PRJ-0052,Project 52: Digital Modernization,Risk Mitigation,4377858,21,108.07,Very High,Critical,64,8,3,2,0,598365,400,76,False,2,6,22.04,2
+PRJ-0053,Project 53: System Implementation,Infrastructure,1675351,31,27.27,Medium,Low,29,3,2,1,3,1871407,207,36,True,8,1,27.59,3
+PRJ-0054,Project 54: System Transformation,Compliance,2596741,5,266.8,High,Medium,27,2,3,8,2,1070751,481,66,False,5,7,44.82,7
+PRJ-0055,Project 55: Process Modernization,Risk Mitigation,2076580,21,41.22,Medium,Low,48,2,2,1,4,97955,552,31,True,7,7,13.4,5
+PRJ-0056,Project 56: Product Modernization,Technology,3316402,24,235.03,Very Low,High,49,8,7,1,1,45954,238,43,True,8,2,31.67,7
+PRJ-0057,Project 57: Digital Optimization,Product Development,1336585,31,55.65,Very High,Medium,89,2,5,4,0,565941,63,46,True,9,6,41.49,7
+PRJ-0058,Project 58: Product Enhancement,Revenue Growth,766756,29,270.51,Medium,Low,31,9,5,7,1,1510844,430,55,True,2,6,36.9,3
+PRJ-0059,Project 59: Product Implementation,Process Improvement,2728932,13,90.16,High,Critical,78,7,8,3,1,718662,652,53,False,6,5,24.19,4
+PRJ-0060,Project 60: Infrastructure Optimization,Process Improvement,2818362,19,151.43,Very High,Medium,92,2,5,9,0,703264,670,90,True,8,9,12.32,3
+PRJ-0061,Project 61: Process Transformation,Process Improvement,2887981,14,111.49,High,Medium,68,1,9,7,0,329278,41,91,False,8,3,36.61,5
+PRJ-0062,Project 62: Digital Transformation,Revenue Growth,2252575,8,294.27,Low,Critical,31,9,7,1,1,328420,115,36,False,5,7,14.87,8
+PRJ-0063,Project 63: Process Optimization,Risk Mitigation,1853740,20,224.79,High,Medium,37,7,1,8,2,569723,217,74,False,3,5,26.51,7
+PRJ-0064,Project 64: Infrastructure Modernization,Product Development,1738472,15,189.64,Very High,High,85,7,3,2,2,825862,810,42,False,3,7,0.47,1
+PRJ-0065,Project 65: Product Transformation,Sustainability,2966623,12,32.05,High,Critical,84,1,3,8,1,1769555,175,91,True,9,1,45.52,9
+PRJ-0066,Project 66: Digital Modernization,Compliance,3238729,8,294.79,Medium,High,96,2,9,7,3,203283,600,49,True,6,5,41.53,2
+PRJ-0067,Project 67: Digital Enhancement,Sustainability,3878464,5,248.73,Very High,Critical,73,7,1,9,2,465699,919,90,True,3,2,24.56,1
+PRJ-0068,Project 68: System Optimization,Revenue Growth,4959384,6,176.13,Low,Medium,75,3,9,3,0,623089,361,71,True,8,9,27.54,2
+PRJ-0069,Project 69: Infrastructure Optimization,Cost Reduction,4207893,15,268.87,Very High,Critical,59,3,3,8,1,1392439,888,62,False,8,3,43.41,1
+PRJ-0070,Project 70: System Optimization,Sustainability,155228,27,279.38,High,Medium,46,6,7,5,2,1632572,855,60,True,5,7,8.04,4
+PRJ-0071,Project 71: Process Transformation,Risk Mitigation,538972,29,294.45,Very Low,Low,79,8,3,6,2,1237165,484,92,False,5,6,46.86,4
+PRJ-0072,Project 72: Process Implementation,Infrastructure,4105957,19,176.74,Very Low,High,69,4,3,4,4,1347803,36,58,True,1,6,18.59,3
+PRJ-0073,Project 73: System Enhancement,Risk Mitigation,2584937,31,283.57,Medium,Critical,58,7,4,2,3,930597,488,56,True,1,8,21.62,5
+PRJ-0074,Project 74: Product Optimization,Product Development,4817493,21,85.89,Medium,Medium,20,6,2,3,0,1296936,821,41,False,8,9,43.43,5
+PRJ-0075,Project 75: System Enhancement,Product Development,1268758,5,240.06,High,Critical,43,3,4,9,0,1611405,265,38,False,9,6,29.1,5
+PRJ-0076,Project 76: Process Optimization,Infrastructure,828513,32,120.79,Medium,Critical,52,6,9,8,2,174053,720,70,True,9,6,30.91,4
+PRJ-0077,Project 77: Digital Enhancement,Compliance,72431,35,157.72,Very Low,Critical,96,1,4,6,1,1794997,900,75,False,2,2,2.06,1
+PRJ-0078,Project 78: System Transformation,Process Improvement,1493717,11,281.18,Very Low,High,95,8,8,2,3,1979469,113,91,True,7,4,27.65,6
+PRJ-0079,Project 79: Process Enhancement,Process Improvement,4396664,16,29.08,High,Medium,31,9,3,3,3,604604,933,82,True,3,2,1.04,3
+PRJ-0080,Project 80: Product Modernization,Process Improvement,1440281,31,128.43,Very Low,Medium,95,1,5,8,3,1499700,545,49,False,8,2,43.35,9
+PRJ-0081,Project 81: Infrastructure Enhancement,Cost Reduction,4275889,4,181.33,High,High,58,3,3,6,4,924699,672,47,False,5,1,6.58,8
+PRJ-0082,Project 82: Infrastructure Enhancement,Technology,4009076,7,25.39,Very Low,High,79,8,7,9,3,771985,772,99,True,9,9,19.95,3
+PRJ-0083,Project 83: Product Transformation,Infrastructure,202999,14,43.61,Very High,Medium,66,3,6,9,0,933780,305,37,True,1,9,8.35,4
+PRJ-0084,Project 84: Infrastructure Modernization,Cost Reduction,1376283,30,259.94,High,Medium,80,4,2,2,0,1761550,322,49,False,1,7,11.24,5
+PRJ-0085,Project 85: Product Optimization,Cost Reduction,2997762,16,208.02,High,Critical,62,2,9,2,4,1051592,68,85,True,2,7,33.34,4
+PRJ-0086,Project 86: Product Implementation,Technology,2977337,10,291.12,Very Low,Medium,27,6,5,6,1,58320,340,72,False,2,2,30.89,8
+PRJ-0087,Project 87: Digital Implementation,Compliance,2577576,6,204.57,Medium,Medium,99,5,5,9,1,1853133,249,95,False,6,9,43.32,9
+PRJ-0088,Project 88: Product Modernization,Cost Reduction,2669980,33,222.84,High,High,23,6,3,6,1,345441,426,52,True,1,8,14.84,7
+PRJ-0089,Project 89: Digital Transformation,Infrastructure,2011977,9,171.21,Medium,Low,52,1,1,3,3,89973,296,95,False,9,3,27.12,8
+PRJ-0090,Project 90: Process Implementation,Cost Reduction,2430932,17,162.41,Medium,Low,89,2,5,7,2,1035014,365,76,True,9,4,46.35,4
+PRJ-0091,Project 91: Product Transformation,Revenue Growth,1407133,6,80.75,High,High,46,3,8,4,1,22289,974,33,False,9,7,34.06,7
+PRJ-0092,Project 92: Product Modernization,Innovation,3071097,22,147.65,Very Low,Low,64,7,6,6,4,1802725,249,38,False,9,8,20.55,8
+PRJ-0093,Project 93: Digital Enhancement,Cost Reduction,1547618,12,243.81,Medium,Low,93,1,7,2,4,205246,590,62,True,5,1,8.92,5
+PRJ-0094,Project 94: System Implementation,Risk Mitigation,4450072,16,191.44,Very Low,High,44,2,3,7,4,267681,864,71,False,7,9,34.62,7
+PRJ-0095,Project 95: Infrastructure Optimization,Product Development,1174905,34,85.88,High,Low,55,3,9,8,0,413322,99,70,True,4,1,41.59,5
+PRJ-0096,Project 96: Infrastructure Optimization,Cost Reduction,4409879,5,162.22,Very High,High,22,6,6,2,3,946705,643,64,False,7,4,3.01,4
+PRJ-0097,Project 97: Product Transformation,Sustainability,2438278,18,125.8,Very Low,Medium,35,1,8,4,2,1813919,571,52,False,3,8,1.0,4
+PRJ-0098,Project 98: Infrastructure Modernization,Sustainability,4913059,8,80.83,Very Low,Critical,35,6,4,2,4,128413,833,52,False,2,9,4.38,9
+PRJ-0099,Project 99: Digital Modernization,Process Improvement,2185219,25,283.0,Low,Medium,25,3,6,6,3,1516404,273,41,True,1,6,40.87,3
+PRJ-0100,Project 100: Process Optimization,Risk Mitigation,1663325,11,100.15,Medium,High,21,3,2,4,1,1500687,295,54,False,9,6,15.69,1
+PRJ-0101,Project 101: Product Implementation,Process Improvement,1018616,8,48.18,Very High,High,27,5,2,4,0,566110,609,74,False,4,2,13.89,6
+PRJ-0102,Project 102: Product Optimization,Technology,3497794,7,235.32,Low,Critical,21,2,8,9,2,1103512,128,50,True,3,7,34.61,1
+PRJ-0103,Project 103: Infrastructure Implementation,Risk Mitigation,1677687,19,73.63,High,Low,71,4,6,7,1,1467214,514,92,False,3,7,26.28,6
+PRJ-0104,Project 104: Product Transformation,Revenue Growth,4051412,4,44.47,Very High,High,98,5,7,8,4,1548112,42,82,False,5,4,18.57,1
+PRJ-0105,Project 105: Infrastructure Optimization,Cost Reduction,2657411,28,42.52,Low,Low,71,6,5,1,0,434127,46,38,True,1,2,21.88,1
+PRJ-0106,Project 106: Process Enhancement,Innovation,4797263,23,248.41,Low,Low,78,6,8,1,0,1065675,884,74,True,5,1,22.16,8
+PRJ-0107,Project 107: Product Modernization,Risk Mitigation,3625168,26,36.08,Very Low,Critical,39,5,8,4,2,211139,428,36,True,3,5,27.48,6
+PRJ-0108,Project 108: Process Implementation,Infrastructure,2295854,10,231.92,Very Low,Critical,85,2,3,1,3,1156237,865,70,True,7,2,16.11,4
+PRJ-0109,Project 109: Infrastructure Optimization,Compliance,2950737,15,176.81,High,High,30,1,8,2,0,425384,517,88,False,9,2,47.15,4
+PRJ-0110,Project 110: Product Implementation,Process Improvement,935421,23,89.34,Very Low,Low,66,2,5,5,3,642543,232,51,True,9,6,26.98,2
+PRJ-0111,Project 111: Process Transformation,Cost Reduction,367875,29,289.71,Medium,Medium,63,6,5,1,2,805326,659,48,True,7,9,38.06,8
+PRJ-0112,Project 112: Process Enhancement,Compliance,2563024,7,265.03,High,Low,83,2,9,5,2,166570,95,70,False,9,4,26.21,6
+PRJ-0113,Project 113: Infrastructure Modernization,Sustainability,4526321,22,101.44,Medium,Medium,89,8,3,5,1,634771,652,33,False,8,6,29.65,5
+PRJ-0114,Project 114: Product Transformation,Innovation,1977205,6,58.49,Very High,Low,36,7,7,4,4,1022237,544,87,True,4,4,2.64,8
+PRJ-0115,Project 115: Process Enhancement,Process Improvement,1293294,21,151.99,Medium,High,43,6,5,4,2,1116351,714,84,True,7,1,4.43,4
+PRJ-0116,Project 116: Digital Optimization,Sustainability,2693061,35,129.27,High,Low,66,6,7,9,1,1586335,866,90,False,2,3,1.31,1
+PRJ-0117,Project 117: Product Modernization,Process Improvement,4052713,7,253.37,Very High,Low,68,5,5,4,1,160787,667,68,False,3,1,39.01,4
+PRJ-0118,Project 118: Digital Implementation,Sustainability,3262883,26,144.26,Very High,High,43,6,7,3,3,83997,661,39,False,6,9,38.84,9
+PRJ-0119,Project 119: Product Implementation,Compliance,708003,20,272.4,Very Low,Critical,87,2,1,7,1,125359,789,49,False,7,5,2.61,8
+PRJ-0120,Project 120: Digital Transformation,Innovation,4496228,20,47.76,Low,Critical,68,3,3,9,4,563343,937,90,True,1,2,36.0,9
+PRJ-0121,Project 121: Digital Modernization,Compliance,3687820,30,218.23,Very Low,Medium,68,1,2,6,1,1389904,871,34,False,6,9,33.45,2
+PRJ-0122,Project 122: System Transformation,Risk Mitigation,2240421,14,23.37,High,Medium,29,3,3,1,4,678179,183,97,False,4,6,0.9,8
+PRJ-0123,Project 123: Product Implementation,Sustainability,2689929,30,232.74,Low,Critical,22,8,1,4,2,31253,708,81,True,9,2,4.67,5
+PRJ-0124,Project 124: System Optimization,Compliance,1278807,26,110.22,Very Low,Low,91,7,9,8,1,1040697,857,99,False,2,7,30.67,3
+PRJ-0125,Project 125: System Enhancement,Compliance,421616,30,64.59,Very High,Low,67,5,4,6,2,405807,678,41,True,7,1,20.89,7
+PRJ-0126,Project 126: Product Transformation,Technology,4277995,33,198.56,Medium,Critical,44,3,1,4,0,888483,959,55,False,5,3,9.37,9
+PRJ-0127,Project 127: Infrastructure Enhancement,Revenue Growth,2046170,4,247.38,High,Critical,22,5,8,1,4,855474,721,63,True,3,2,37.44,9
+PRJ-0128,Project 128: Digital Transformation,Process Improvement,4402892,18,36.37,Medium,Low,47,7,6,9,3,563083,30,92,True,4,9,10.78,5
+PRJ-0129,Project 129: System Modernization,Cost Reduction,493316,16,271.56,Very Low,Medium,28,3,2,3,0,883093,280,52,True,2,8,18.98,4
+PRJ-0130,Project 130: Product Optimization,Process Improvement,1071469,16,146.33,Very Low,Critical,59,8,6,7,0,980834,651,80,True,3,9,41.97,7
+PRJ-0131,Project 131: Digital Optimization,Risk Mitigation,1214795,21,262.46,Very High,Critical,55,8,1,9,0,87175,849,43,True,5,3,11.32,9
+PRJ-0132,Project 132: Infrastructure Optimization,Product Development,1279787,10,263.79,Very High,High,60,8,7,1,3,1243954,808,93,False,2,5,26.07,5
+PRJ-0133,Project 133: Infrastructure Transformation,Process Improvement,451067,35,222.58,Very Low,Critical,28,4,3,1,1,322023,509,94,False,7,8,15.85,9
+PRJ-0134,Project 134: System Enhancement,Product Development,138668,24,184.09,Medium,High,39,9,3,4,3,958763,801,51,False,3,6,13.13,8
+PRJ-0135,Project 135: Process Optimization,Risk Mitigation,1796688,10,192.06,Very Low,High,36,6,8,3,3,1742969,478,86,True,1,3,9.8,3
+PRJ-0136,Project 136: Product Implementation,Compliance,4446720,15,163.42,Very Low,High,81,8,4,1,1,1941046,370,78,False,6,9,19.85,5
+PRJ-0137,Project 137: Digital Modernization,Infrastructure,2442919,23,106.84,Very Low,Medium,32,3,1,8,3,1591074,361,90,True,1,7,47.7,5
+PRJ-0138,Project 138: Digital Optimization,Risk Mitigation,3379693,25,16.96,High,High,37,2,4,1,3,1730913,514,48,True,8,4,45.02,3
+PRJ-0139,Project 139: Digital Enhancement,Sustainability,2592017,13,181.61,Low,Medium,92,9,7,3,3,790741,696,31,True,6,3,26.7,8
+PRJ-0140,Project 140: Process Modernization,Sustainability,734029,14,92.04,Very Low,Medium,64,5,5,1,0,738342,437,67,False,5,6,42.59,4
+PRJ-0141,Project 141: System Transformation,Risk Mitigation,1829685,32,136.69,Low,Low,86,3,9,7,2,729407,701,86,False,4,1,26.29,2
+PRJ-0142,Project 142: Infrastructure Transformation,Risk Mitigation,118803,3,107.03,High,Medium,48,2,3,1,0,1568309,605,98,False,2,4,29.01,6
+PRJ-0143,Project 143: Digital Implementation,Infrastructure,878791,26,154.11,Medium,Critical,23,6,3,2,2,393100,940,59,False,5,5,47.8,5
+PRJ-0144,Project 144: System Implementation,Technology,2349899,11,295.28,Very High,Medium,66,4,1,6,3,562004,194,78,True,2,6,12.35,7
+PRJ-0145,Project 145: System Optimization,Innovation,2812081,34,214.16,Low,Critical,65,5,7,4,2,881808,633,92,False,3,2,24.44,3
+PRJ-0146,Project 146: Product Modernization,Process Improvement,1592247,24,172.97,Low,Medium,56,7,5,8,3,90388,686,65,False,3,5,29.96,6
+PRJ-0147,Project 147: Product Implementation,Revenue Growth,2173238,30,22.03,High,Critical,65,6,1,3,2,899497,333,81,False,6,7,18.77,6
+PRJ-0148,Project 148: System Modernization,Compliance,1280746,13,276.03,Medium,High,70,5,2,3,3,1886870,394,64,False,9,8,42.7,1
+PRJ-0149,Project 149: Digital Modernization,Infrastructure,2249391,10,23.42,Medium,Medium,88,7,2,6,4,1195493,712,96,False,5,2,16.67,3
+PRJ-0150,Project 150: Digital Optimization,Process Improvement,4516951,28,249.4,Medium,Critical,55,9,5,1,4,1275804,773,37,True,9,1,42.3,2
+PRJ-0151,Project 151: Digital Enhancement,Product Development,3728621,33,24.47,Medium,Low,22,2,3,6,1,877239,686,63,False,6,2,3.65,8
+PRJ-0152,Project 152: Infrastructure Enhancement,Risk Mitigation,3981586,10,91.29,Medium,High,72,7,1,1,0,163245,466,42,True,3,5,20.81,9
+PRJ-0153,Project 153: Digital Enhancement,Innovation,4858163,10,168.62,High,Low,33,2,4,5,3,1289180,88,37,False,7,2,6.69,2
+PRJ-0154,Project 154: System Modernization,Infrastructure,628526,31,18.82,Very Low,Medium,69,8,9,6,4,90811,918,93,True,9,1,6.5,9
+PRJ-0155,Project 155: System Enhancement,Product Development,4129441,17,283.18,Medium,Critical,89,8,3,5,0,42441,500,58,True,9,8,33.79,7
+PRJ-0156,Project 156: Product Transformation,Cost Reduction,4755815,13,285.48,Very Low,High,92,5,4,3,2,466331,322,71,True,5,6,47.84,9
+PRJ-0157,Project 157: System Enhancement,Process Improvement,2938939,9,231.43,Low,Critical,32,4,2,9,0,586677,488,83,False,6,1,39.81,7
+PRJ-0158,Project 158: Product Transformation,Technology,922328,26,279.59,High,High,22,6,5,8,0,346227,562,42,True,1,6,39.1,5
+PRJ-0159,Project 159: Infrastructure Transformation,Innovation,4437373,15,116.83,Low,High,33,3,9,3,0,1316379,211,53,True,9,4,2.08,6
+PRJ-0160,Project 160: Digital Implementation,Risk Mitigation,2428907,18,233.01,High,High,95,6,5,9,1,433332,163,36,False,5,9,38.66,7
+PRJ-0161,Project 161: Infrastructure Modernization,Cost Reduction,1548339,11,166.35,Very Low,Medium,91,6,4,8,2,759468,518,58,False,2,7,33.58,4
+PRJ-0162,Project 162: Process Modernization,Risk Mitigation,192980,34,197.03,Medium,Medium,51,6,9,1,2,187241,521,86,False,9,3,7.35,5
+PRJ-0163,Project 163: Infrastructure Implementation,Infrastructure,606718,26,218.87,Very Low,Medium,50,9,2,1,1,134932,625,81,True,8,6,20.78,6
+PRJ-0164,Project 164: System Enhancement,Innovation,339220,8,86.04,Low,High,93,3,6,8,3,927996,264,62,True,2,6,5.44,4
+PRJ-0165,Project 165: System Implementation,Compliance,3422863,28,159.15,High,Medium,37,3,7,7,1,958377,419,33,False,3,2,34.92,5
+PRJ-0166,Project 166: Process Enhancement,Risk Mitigation,976215,15,257.0,High,Medium,84,7,1,4,1,622181,122,73,True,5,4,17.85,5
+PRJ-0167,Project 167: Process Implementation,Compliance,1707153,10,243.44,Very High,Medium,86,4,9,6,2,1114417,528,30,False,9,7,18.59,4
+PRJ-0168,Project 168: Infrastructure Transformation,Process Improvement,4612530,29,86.29,Very Low,High,64,4,4,5,2,338785,353,94,False,1,4,5.09,9
+PRJ-0169,Project 169: Digital Transformation,Innovation,1256184,31,132.26,Medium,Low,70,5,3,3,2,1125244,729,76,True,7,8,20.05,4
+PRJ-0170,Project 170: Process Implementation,Technology,2579832,21,180.17,High,High,87,3,5,1,2,1412222,309,56,False,4,2,38.7,8
+PRJ-0171,Project 171: Process Implementation,Process Improvement,197745,25,18.39,High,Medium,88,5,9,9,4,275976,729,83,False,5,9,48.65,7
+PRJ-0172,Project 172: Product Transformation,Product Development,4859045,6,290.22,Medium,Medium,55,9,5,7,1,854081,571,91,True,9,3,9.08,6
+PRJ-0173,Project 173: Infrastructure Transformation,Revenue Growth,3460580,10,200.0,Medium,Medium,50,2,9,1,2,79087,39,46,False,4,9,6.5,5
+PRJ-0174,Project 174: Digital Modernization,Sustainability,970114,19,280.21,Low,Low,34,7,6,1,1,1616140,667,86,True,2,9,9.76,6
+PRJ-0175,Project 175: Infrastructure Implementation,Cost Reduction,4639058,19,211.85,High,Low,66,7,1,1,2,347369,812,61,False,4,2,0.8,4
+PRJ-0176,Project 176: System Enhancement,Infrastructure,742924,6,169.9,Very High,Medium,25,9,1,1,2,1713924,222,98,True,6,8,8.96,3
+PRJ-0177,Project 177: System Implementation,Innovation,892840,22,204.76,High,Medium,21,8,6,3,0,1275636,869,36,False,8,7,28.59,7
+PRJ-0178,Project 178: System Optimization,Technology,873759,10,20.29,Very Low,Low,72,5,1,6,0,1575188,598,57,False,5,6,12.36,1
+PRJ-0179,Project 179: Process Modernization,Process Improvement,1874964,4,65.59,High,Critical,32,4,6,7,2,493455,851,49,True,8,2,47.06,9
+PRJ-0180,Project 180: Digital Enhancement,Innovation,3957129,7,293.79,Very Low,Critical,60,1,1,7,2,69778,807,64,False,2,8,32.84,6
+PRJ-0181,Project 181: Process Optimization,Risk Mitigation,3518582,29,27.3,High,Medium,60,6,4,3,3,1291506,396,95,False,5,2,35.19,6
+PRJ-0182,Project 182: System Enhancement,Sustainability,827567,8,97.31,High,Medium,21,4,1,3,1,1531624,295,82,True,6,3,44.15,8
+PRJ-0183,Project 183: Infrastructure Enhancement,Sustainability,2341136,6,281.2,Very Low,Low,20,4,9,6,0,92289,824,83,False,3,4,37.42,9
+PRJ-0184,Project 184: Infrastructure Implementation,Sustainability,3850986,28,298.9,High,Critical,62,9,9,2,3,1776892,709,68,True,5,7,2.5,4
+PRJ-0185,Project 185: Digital Modernization,Cost Reduction,4230266,13,140.39,Medium,High,77,1,2,7,1,863329,579,48,False,8,3,30.84,1
+PRJ-0186,Project 186: System Optimization,Innovation,3678104,8,240.92,Very Low,Low,47,1,6,5,0,1470049,597,88,True,2,6,21.38,4
+PRJ-0187,Project 187: Process Implementation,Cost Reduction,3418270,30,128.72,Medium,High,76,4,6,7,4,1243770,851,97,False,1,7,35.65,6
+PRJ-0188,Project 188: Process Modernization,Infrastructure,903605,23,52.34,Very High,Critical,93,5,2,7,2,700796,332,64,False,5,1,15.49,8
+PRJ-0189,Project 189: Process Modernization,Cost Reduction,1524620,26,237.84,Very High,Low,68,7,1,1,4,1032780,166,35,True,3,7,9.69,6
+PRJ-0190,Project 190: Product Enhancement,Risk Mitigation,126240,14,258.34,Medium,High,76,6,9,5,4,1081775,587,52,True,1,7,0.1,2
+PRJ-0191,Project 191: Product Implementation,Technology,1570373,35,106.84,Medium,Low,61,3,3,4,1,789976,263,57,True,7,7,12.19,3
+PRJ-0192,Project 192: Infrastructure Optimization,Sustainability,1659184,21,205.3,Low,Critical,48,2,2,3,4,1769989,926,63,True,1,5,5.86,7
+PRJ-0193,Project 193: Process Modernization,Risk Mitigation,4364380,7,230.62,Medium,Medium,77,1,7,5,0,257536,603,46,True,9,3,28.03,5
+PRJ-0194,Project 194: System Enhancement,Sustainability,3691141,30,210.7,Very Low,Critical,99,9,3,3,0,1416150,747,58,True,3,2,20.23,3
+PRJ-0195,Project 195: System Transformation,Sustainability,3500087,20,271.02,Low,Low,27,6,6,9,3,1176670,761,86,True,2,2,25.67,6
+PRJ-0196,Project 196: Infrastructure Transformation,Innovation,3699244,5,69.93,Medium,Medium,81,4,4,2,0,844440,377,60,False,2,8,27.42,9
+PRJ-0197,Project 197: Infrastructure Modernization,Innovation,3099316,34,157.81,Very Low,Medium,83,7,9,6,4,118944,429,32,True,4,5,27.08,6
+PRJ-0198,Project 198: System Modernization,Compliance,745532,4,130.33,High,High,63,1,2,2,3,59522,887,52,False,1,6,26.66,3
+PRJ-0199,Project 199: System Transformation,Infrastructure,1012452,15,198.14,Low,Medium,72,4,7,7,3,976649,898,62,False,8,1,23.2,6
+PRJ-0200,Project 200: Product Transformation,Process Improvement,514462,7,190.86,Low,Low,25,9,8,8,4,1661142,133,47,False,8,1,28.84,6
+PRJ-0201,Project 201: System Implementation,Innovation,4267690,33,16.9,Very High,Critical,54,4,5,3,2,124589,537,77,True,3,6,0.72,8
+PRJ-0202,Project 202: Process Modernization,Product Development,1706042,5,189.26,Very High,Critical,29,3,9,4,4,605484,412,48,True,2,9,11.44,3
+PRJ-0203,Project 203: System Enhancement,Risk Mitigation,1483284,7,298.71,High,High,23,6,1,4,0,428829,744,61,True,2,7,43.18,8
+PRJ-0204,Project 204: System Transformation,Cost Reduction,915256,12,168.63,Very Low,Low,90,4,1,8,3,1513637,755,76,True,2,4,34.27,1
+PRJ-0205,Project 205: System Optimization,Compliance,378821,22,288.47,Medium,Low,75,2,5,1,1,1766963,467,55,True,8,8,29.7,4
+PRJ-0206,Project 206: Product Enhancement,Infrastructure,4689059,18,208.75,Medium,Medium,99,8,5,7,0,729778,208,66,False,1,7,30.95,5
+PRJ-0207,Project 207: Infrastructure Implementation,Risk Mitigation,3201478,14,246.01,Low,High,48,3,2,2,3,651593,831,49,False,6,8,5.05,4
+PRJ-0208,Project 208: Product Implementation,Process Improvement,4039284,10,134.72,Medium,High,83,8,8,7,3,1467200,449,42,False,4,5,8.51,4
+PRJ-0209,Project 209: Process Enhancement,Risk Mitigation,3951403,34,51.01,Low,Low,43,3,7,1,0,488454,764,86,True,5,8,18.19,6
+PRJ-0210,Project 210: Product Modernization,Technology,647904,17,63.78,Very High,Critical,51,9,8,4,1,1480170,111,92,False,6,3,32.9,9
+PRJ-0211,Project 211: System Enhancement,Risk Mitigation,3764755,27,156.59,Very High,Critical,25,3,9,6,3,98059,580,54,True,6,6,42.74,5
+PRJ-0212,Project 212: System Implementation,Process Improvement,1367621,18,89.28,Very High,High,91,7,8,9,2,1807001,416,88,False,1,5,8.76,9
+PRJ-0213,Project 213: Digital Transformation,Innovation,2062755,24,226.74,Very High,Medium,61,2,1,4,3,1151452,366,83,False,1,1,17.56,1
+PRJ-0214,Project 214: Process Enhancement,Risk Mitigation,1962493,10,66.22,Low,Medium,78,7,5,1,3,1391848,730,45,True,2,6,21.5,1
+PRJ-0215,Project 215: Product Enhancement,Technology,3427932,23,230.05,Very Low,Low,34,9,4,5,3,656045,446,86,False,9,6,49.82,3
+PRJ-0216,Project 216: System Enhancement,Sustainability,348783,17,142.38,Very High,High,76,8,8,1,2,766967,71,91,True,7,1,10.54,5
+PRJ-0217,Project 217: Product Enhancement,Revenue Growth,2999311,10,233.7,Medium,Medium,30,8,1,5,2,1379537,92,57,True,1,6,33.92,6
+PRJ-0218,Project 218: Infrastructure Enhancement,Revenue Growth,128116,6,108.37,Very Low,Medium,55,4,1,9,3,572422,729,87,False,3,8,15.66,1
+PRJ-0219,Project 219: Process Enhancement,Compliance,2071835,10,282.0,Low,Low,57,9,8,8,4,1837352,540,63,True,8,6,33.1,4
+PRJ-0220,Project 220: Process Optimization,Process Improvement,4351828,5,228.33,Very Low,Medium,54,9,5,2,1,246371,169,33,True,7,1,22.0,2
+PRJ-0221,Project 221: System Enhancement,Cost Reduction,1210152,22,250.13,Very High,High,57,4,9,5,0,1336980,99,76,True,4,2,5.29,3
+PRJ-0222,Project 222: System Enhancement,Innovation,2725032,10,248.83,Very High,Low,24,5,7,5,2,437244,899,98,True,2,1,34.99,3
+PRJ-0223,Project 223: System Implementation,Risk Mitigation,2836905,15,172.55,Very High,Critical,73,9,7,5,1,252934,572,81,True,1,7,10.91,5
+PRJ-0224,Project 224: Digital Modernization,Sustainability,4511902,19,27.55,Medium,Critical,99,8,1,1,1,1187228,686,67,True,6,3,11.06,8
+PRJ-0225,Project 225: Product Transformation,Infrastructure,1625326,8,205.36,Low,Critical,42,9,2,5,1,152867,419,99,True,2,2,16.61,9
+PRJ-0226,Project 226: Product Implementation,Risk Mitigation,2547934,21,233.2,High,Medium,54,3,4,4,2,1623727,151,77,False,8,8,30.59,1
+PRJ-0227,Project 227: System Enhancement,Infrastructure,3296434,34,226.26,Low,Low,33,5,4,8,2,1498591,761,45,False,4,2,27.85,6
+PRJ-0228,Project 228: System Modernization,Risk Mitigation,2459409,10,19.81,High,Medium,76,3,6,2,1,834516,914,68,False,2,7,41.65,6
+PRJ-0229,Project 229: Process Transformation,Product Development,2412460,25,152.64,Low,High,34,8,9,5,1,1248227,35,92,True,1,4,16.22,1
+PRJ-0230,Project 230: Digital Optimization,Cost Reduction,540999,8,134.97,Very Low,Low,41,7,3,9,3,929627,628,43,True,2,1,15.22,9
+PRJ-0231,Project 231: Process Optimization,Cost Reduction,2523006,25,128.07,High,High,44,9,7,9,0,429149,384,77,False,3,5,41.75,7
+PRJ-0232,Project 232: Digital Enhancement,Sustainability,4925217,13,128.9,Medium,High,78,6,9,4,1,1565929,856,56,True,8,7,6.6,7
+PRJ-0233,Project 233: Infrastructure Implementation,Infrastructure,4683662,19,71.69,Very High,Low,88,4,6,5,1,863062,209,66,True,3,4,34.69,4
+PRJ-0234,Project 234: System Transformation,Innovation,3249039,29,273.69,Very High,Low,44,6,4,2,1,180948,979,59,True,3,7,40.14,6
+PRJ-0235,Project 235: Product Implementation,Revenue Growth,1820403,11,72.85,Medium,High,89,4,9,4,0,748591,417,79,False,5,4,32.82,5
+PRJ-0236,Project 236: Process Implementation,Technology,3161500,11,51.08,High,Medium,50,3,9,5,4,897198,368,82,False,2,4,22.32,2
+PRJ-0237,Project 237: Infrastructure Modernization,Risk Mitigation,3654724,33,208.28,Very Low,Medium,23,7,2,1,0,202458,377,94,True,5,7,12.65,8
+PRJ-0238,Project 238: Infrastructure Implementation,Process Improvement,4152553,13,293.85,Medium,Medium,86,3,1,6,1,886336,685,31,False,6,4,13.8,9
+PRJ-0239,Project 239: Product Enhancement,Innovation,3962487,35,189.47,Very Low,High,61,5,6,6,0,1407203,783,56,True,2,9,46.44,8
+PRJ-0240,Project 240: Digital Implementation,Innovation,95256,12,29.07,Low,Low,39,7,2,1,2,1271179,705,53,False,2,9,48.27,5
+PRJ-0241,Project 241: Infrastructure Implementation,Risk Mitigation,1246311,23,25.47,Very High,High,33,2,6,8,3,1052092,449,51,False,4,8,39.61,1
+PRJ-0242,Project 242: Product Implementation,Product Development,2679137,5,79.82,Very High,Medium,35,5,4,5,2,867549,772,99,False,1,7,27.83,7
+PRJ-0243,Project 243: Infrastructure Modernization,Sustainability,1891646,7,35.51,High,Medium,97,1,5,3,0,686315,112,83,False,7,8,44.72,4
+PRJ-0244,Project 244: System Transformation,Sustainability,1671788,8,244.62,Low,Critical,88,9,8,7,0,1385147,884,68,True,6,8,20.24,6
+PRJ-0245,Project 245: Process Optimization,Product Development,2984317,5,244.68,Low,Critical,20,1,2,4,4,1375103,976,62,True,3,5,28.92,4
+PRJ-0246,Project 246: Product Implementation,Sustainability,721986,21,220.42,Very High,Medium,32,9,6,4,4,533116,883,72,True,8,4,27.55,3
+PRJ-0247,Project 247: Process Optimization,Sustainability,456547,21,250.56,Medium,Low,98,7,6,2,2,1307682,477,35,False,4,6,32.65,1
+PRJ-0248,Project 248: System Optimization,Product Development,4590334,9,194.08,Very High,Low,44,6,3,5,4,1840957,850,42,True,6,6,16.57,6
+PRJ-0249,Project 249: Infrastructure Optimization,Infrastructure,1440598,13,114.16,Very Low,Medium,64,7,2,9,1,1469096,83,58,True,1,4,8.3,3
+PRJ-0250,Project 250: Infrastructure Modernization,Process Improvement,2487839,32,282.61,Very High,Medium,70,6,5,6,3,1775797,349,36,False,1,2,9.88,9
